@@ -2,322 +2,197 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://bizlysis.github.io/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/alternatives/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/AI%E5%8A%A9%E6%89%8B/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/browser-support/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/Excel/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/creating-your-site/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/PowerBI/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/customization/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/PySpark/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/getting-started/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/Python/</loc>
+         <lastmod>2023-04-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bizlysis.github.io/RPA%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+         <lastmod>2023-04-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bizlysis.github.io/SQL/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bizlysis.github.io/license/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/philosophy/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%85%B3%E8%81%94%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/publishing-your-site/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/upgrade/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/blog/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%8A%A0%E5%85%A5%E7%A4%BE%E7%BE%A4/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/blog/posts/blog-support-just-landed/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%8F%98%E9%87%8F%E5%85%B3%E7%B3%BB%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/blog/posts/chinese-search-support/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/blog/posts/excluding-content-from-search/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/blog/posts/search-better-faster-smaller/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%95%86%E4%B8%9A%E7%90%86%E8%AE%BA/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/blog/posts/the-past-present-and-future/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%95%86%E4%B8%9A%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/changelog/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%95%86%E4%B8%9A%E7%A0%94%E7%A9%B6%E8%AE%BE%E8%AE%A1/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/contributing/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%95%86%E5%88%86%E5%B8%B8%E8%AF%86/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/contributing/reporting-a-bug/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%95%86%E5%88%86%E9%9C%80%E6%B1%82%E7%AE%A1%E7%90%86/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/contributing/reporting-a-docs-issue/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%A4%9A%E7%BB%B4%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/contributing/requesting-a-change/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%AE%8F%E8%A7%82%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/guides/creating-a-reproduction/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/insiders/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%AE%9E%E8%B7%B5%E6%A1%88%E4%BE%8B/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/insiders/changelog/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E5%B8%82%E5%9C%BA%E8%B0%83%E6%9F%A5/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/insiders/getting-started/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/admonitions/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E6%95%B0%E6%8D%AE%E6%BA%90%E6%88%96%E5%AD%98%E5%82%A8/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/annotations/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/buttons/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/code-blocks/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/content-tabs/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/data-tables/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/diagrams/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/footnotes/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/formatting/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E9%A1%B9%E7%9B%AE%E6%88%90%E6%9E%9C%E7%AE%A1%E7%90%86/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/grids/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bizlysis.github.io/reference/icons-emojis/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/reference/images/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/reference/lists/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/reference/mathjax/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/reference/tooltips/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/adding-a-comment-system/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/adding-a-git-repository/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/building-an-optimized-site/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/building-for-offline-usage/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/changing-the-colors/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/changing-the-fonts/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/changing-the-language/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/changing-the-logo-and-icons/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/ensuring-data-privacy/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/setting-up-a-blog/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/setting-up-navigation/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/setting-up-site-analytics/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/setting-up-site-search/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/setting-up-social-cards/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/setting-up-tags/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/setting-up-the-footer/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/setting-up-the-header/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/setting-up-versioning/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/dependencies/image-processing/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/extensions/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/extensions/python-markdown-extensions/</loc>
-         <lastmod>2023-04-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bizlysis.github.io/setup/extensions/python-markdown/</loc>
-         <lastmod>2023-04-09</lastmod>
+         <loc>https://bizlysis.github.io/%E9%A1%B9%E7%9B%AE%E8%BF%87%E7%A8%8B%E7%AE%A1%E7%90%86/</loc>
+         <lastmod>2023-04-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
